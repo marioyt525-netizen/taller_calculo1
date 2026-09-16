@@ -43,7 +43,7 @@ st.markdown("""
 # Título general
 # -------------------------------------------------
 st.markdown('<p class="main-header">Taller Entregable – Cálculo 1 (Primer Corte)</p>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">Aplicación interactiva · Respeta todas las indicaciones del profesor</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">Aplicación interactiva</p>', unsafe_allow_html=True)
 
 st.info("Puedes modificar los parámetros y la solución, los pasos y las gráficas se actualizan automáticamente.")
 
@@ -336,4 +336,4 @@ with tab3:
 
 # -------------------------------------------------
 st.markdown("---")
-st.caption("Aplicación lista · Todas las ecuaciones y requisitos del taller respetados.")
+st.caption("Gracias.")
